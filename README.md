@@ -1,5 +1,5 @@
-linux comandline 
-wget -qO- eth0.me
+linux comandline: 
+- wget -qO- eth0.me
 
 <!---
 JoYMnk/JoYMnk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
